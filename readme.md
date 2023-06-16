@@ -1,11 +1,6 @@
 # Otomatis Membuat Video Surah Al Quran
 Project ini bertujuan untuk mengetahui isi semua surah di dalam Al-Quran beserta suara tanpa mengedit video, ini menggunakan MoviePy dan ImageMagick
 
-# Contoh Video:
-<video autosize="true" controls>
-    <source src="./hasil/1.mp4" type="video/mp4">
-</video>
-
 # Installation
 1. Clone projectnya
 `
